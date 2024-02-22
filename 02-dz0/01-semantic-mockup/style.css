@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+   }
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+ol, ul{
+    color: white;
+    list-style-position: inside;
+}
+
+h2 {
+    margin-bottom: 5px;
+    color: white;
+}
+
+p, a {
+    color: white;
+}
+
+
+nav {
+    padding: 10px 0;
+    text-align: center;
+}
+
+header {
+    background-color: red;
+}
+
+nav {
+    background-color: orange;
+}
+
+main {
+    padding: 10px 20px;
+    background-color: green;
+}
+
+article {
+    margin: 5px 0;
+    padding: 10px 40px;
+    background-color: blue;
+}
+
+footer {
+    background-color: purple;
+}
